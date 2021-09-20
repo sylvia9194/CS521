@@ -1,3 +1,3 @@
 # CS521
-Lab and Homwork
+Jiahe Wang 's Lab and Homwork
 The lab includes defining string functions and variable operation
